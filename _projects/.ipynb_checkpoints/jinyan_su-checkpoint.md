@@ -3,7 +3,7 @@ layout: page
 title: Jinyan Su
 description: Research Assisstant
 img: /assets/img/Jinyan_Su.jpg
-importance: 2
+importance: 1
 category: Students
 <!-- redirect: -->
 ---
