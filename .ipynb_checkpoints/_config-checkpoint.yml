@@ -103,8 +103,14 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  activities:
+    defaults:
+      layout: post
+    output: true
+    permalink: /activities/:path/
 
-news_limit: 30
+activities_limit: 8
+news_limit: 8
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

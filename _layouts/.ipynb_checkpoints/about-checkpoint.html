@@ -32,7 +32,7 @@ layout: default
     {% if page.news %}
       {% include news.html %}
     {% endif %}
-
+    {% include activities.html %}
     {% if page.profile.image %}
     <img class="img-fluid" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
     {% endif %}
