@@ -1,7 +1,8 @@
 ---
 layout: post
-date: Feb 9, 2023
+date: Jan 30, 2023
 inline: true
 ---
 
-We held the group meeting for this week.
+We delightedly participated and enjoyed the [Inaugural Commencement Ceremony](https://www.youtube.com/watch?v=UPPBsJEHkW0&t=1s) of MBZUAI!
+
