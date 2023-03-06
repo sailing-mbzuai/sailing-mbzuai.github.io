@@ -4,6 +4,6 @@ title: Ding Bai
 description: PhD Student
 img: /assets/img/Ding_Bai.jpg
 importance: 1
-category: Students
+category: Members
 <!-- redirect: https -->
 ---
