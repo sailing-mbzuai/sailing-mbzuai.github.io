@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mingkai Deng
-description: Visiting PhD Student
+description: Visiting Student
 img: /assets/img/Mingkai_Deng.jpg
 importance: 1
 category: Members

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guangyi Liu
-description: Visiting PhD Student
+description: Postdoctoral Fellow
 img: /assets/img/Guangyi_Liu.png
 importance: 1
 category: Members
