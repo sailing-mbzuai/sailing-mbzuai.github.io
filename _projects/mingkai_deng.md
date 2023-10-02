@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mingkai Deng
-description: PhD at CMU
+description: PhD at CMU (Now)
 img: /assets/img/Mingkai_Deng.jpg
 importance: 1
 category: Alumni
