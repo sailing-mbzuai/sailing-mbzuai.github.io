@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Yi Gu
-description: Visiting Student
+description: PhD at UCSD (Now)
 img: /assets/img/Yi_Gu.png
 importance: 1
-category: Members
+category: Alumni
 redirect: https://www.yigu.page/
 ---

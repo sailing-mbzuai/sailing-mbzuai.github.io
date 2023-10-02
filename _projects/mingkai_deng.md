@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Mingkai Deng
-description: Visiting Student
+description: PhD at CMU
 img: /assets/img/Mingkai_Deng.jpg
 importance: 1
-category: Members
+category: Alumni
 redirect: https://mingkaid.github.io/
 ---
