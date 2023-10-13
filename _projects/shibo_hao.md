@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Shibo Hao
-description: Visiting Student
+description: PhD at UCSD (Now)
 img: /assets/img/Shibo_Hao.jpg
 importance: 1
-category: Members
+category: Alumni
 redirect: https://ber666.github.io/
 ---
